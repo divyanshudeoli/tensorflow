@@ -54,8 +54,8 @@ includes the following 3 model files:
 ## Model Architecture
 
 The final model used to simulate a sine wave is displayed below. It is a
-simple feed forward deep neural network with 2 fully connected layers with
-ReLu activations and a final fully connected output layer with as shown below.
+simple feed-forward deep neural network with two fully connected layers with
+ReLu activations and a final fully connected output layer which is as shown below.
 
 ![model_architecture.png](../images/model_architecture.png)
 
